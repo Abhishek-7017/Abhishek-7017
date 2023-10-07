@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhishek-7017
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on Game Development
+- 👀 I’m interested in Fullstack Development
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate on Fullstack Development
 - 📫 How to reach me abhishekat7500@gmail.com
 
 <!---
